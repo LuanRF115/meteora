@@ -121,3 +121,10 @@ table {
 .imagem-banner{
     width: 100%;
 }
+
+.menu-categorias{
+    background-color: #DAFF01;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
