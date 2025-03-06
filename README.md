@@ -9,7 +9,7 @@ Este projeto é um site feito para [para simular uma pagina de um site de vendas
 
 ## 🚀 Funcionalidades
 
-- **Design Responsivo**: O site se adapta automaticamente a diferentes tamanhos de tela (desktop, tablet, celular).
+- **Design Responsivo**: O site se adapta automaticamente a diferentes tamanhos de tela (desktop)
 - **Interatividade**: [Descrição de uma funcionalidade interativa, como animações, formulários ou APIs externas].
 - **Acessibilidade**: Garantia de que o site é fácil de navegar para todos, incluindo usuários com deficiências.
 - **SEO otimizado**: Estrutura projetada para ser amigável aos mecanismos de busca.
@@ -19,10 +19,15 @@ Este projeto é um site feito para [para simular uma pagina de um site de vendas
 ## ⚡ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura e conteúdo do site.
-- **CSS3**: Estilos modernos e responsivos para design.
-- **JavaScript**: Interatividade e animações.
-- **transition** (ou qualquer outro framework/biblioteca, se aplicável): Para criação de interfaces dinâmicas.
-- **filter** (ou qualquer outro framework de design, se aplicável): Para desenvolvimento rápido e responsivo.
+- **CSS3**: Estilos modernos e 
 
----
+## 📷 Foto do Produto
+![alt text](produto.png)
 
+![alt text](catalogo.png)
+## 📞 Contato
+Se você tiver alguma dúvida ou sugestão, não hesite em me contatar!
+
+Email: luanlutii@gmail.com
+
+GitHub: LuanRF115
